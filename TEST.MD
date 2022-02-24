@@ -10,3 +10,6 @@ checking in "Automatically delete head branches"  (Pull Request)
 
 # insert suggestion and re-request review
 check images in folder static
+
+# github cli -> https://cli.github.com/
+https://github.com/cli/cli#installation
