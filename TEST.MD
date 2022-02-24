@@ -8,5 +8,5 @@ inside pmonleon/GitHub-Tips-Tricks
 github -> settings 
 checking in "Automatically delete head branches"  (Pull Request)
 
-# insert suggestion
+# insert suggestion and re-request review
 check images in folder static
